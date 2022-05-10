@@ -1,5 +1,3 @@
-# Kidney_Stone_Detection
-
 # Kidney stone detection using image processing and deep learning 
 
 > # requirnments

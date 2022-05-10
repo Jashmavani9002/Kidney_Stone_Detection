@@ -1,0 +1,9 @@
+opencv-python
+numpy
+sklearn
+matplotlib
+seaborn
+tensorflow
+pandas
+keras
+Pillow==2.2.1
